@@ -1,0 +1,244 @@
+{
+  "careerpaths": [
+    {
+      "listrole": "careerdata.career1listrole",
+      "name": "careerdata.career1heading",
+      "role": "careerdata.career1role",
+      "description": "careerdata.career1desc",
+      "video": "https://www.youtube.com/embed/0FM8jYcS238",
+      "company": "careerdata.career1company",
+      "image": "/img/user1.png",
+      "skills": [
+        "careerdata.career1skill1",
+        "careerdata.career1skill2",
+        "careerdata.career1skill3",
+        "careerdata.career1skill4",
+        "careerdata.career1skill5",
+        "careerdata.career1skill6"
+      ],
+      "roles": [
+        "careerdata.career1role1",
+        "careerdata.career1role2",
+        "careerdata.career1role3",
+        "careerdata.career1role4",
+        "careerdata.career1role5"
+      ],
+      "courses": [
+        {
+          "name": "careerdata.career1course1",
+          "description": "careerdata.career1course1desc"
+        },
+        {
+          "name": "careerdata.career1course2",
+          "description": "careerdata.career1course2desc"
+        },
+        {
+          "name": "careerdata.career1course3",
+          "description": "careerdata.career1course3desc"
+        },
+        {
+          "name": "careerdata.career1course4",
+          "description": "careerdata.career1course4desc"
+        },
+        {
+          "name": "careerdata.career1course5",
+          "description": "careerdata.career1course5desc"
+        },
+        {
+          "name": "careerdata.career1course6",
+          "description": "careerdata.career1course6desc"
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "listrole": "careerdata.career2listrole",
+      "name": "careerdata.career2heading",
+      "role": "careerdata.career2role",
+      "description": "careerdata.career2desc",
+      "video": "https://www.youtube.com/embed/0FM8jYcS238",
+      "company": "careerdata.career2company",
+      "image": "/img/user2.png",
+      "skills": [
+        "careerdata.career2skill1",
+        "careerdata.career2skill2",
+        "careerdata.career2skill3",
+        "careerdata.career2skill4",
+        "careerdata.career2skill5",
+        "careerdata.career2skill6"
+      ],
+      "roles": [
+        "careerdata.career2role1",
+        "careerdata.career2role2",
+        "careerdata.career2role3",
+        "careerdata.career2role4",
+        "careerdata.career2role5"
+      ],
+      "courses": [
+        {
+          "name": "careerdata.career2course1",
+          "description": "careerdata.career2course1desc"
+        },
+        {
+          "name": "careerdata.career2course2",
+          "description": "careerdata.career2course2desc"
+        },
+        {
+          "name": "careerdata.career2course3",
+          "description": "careerdata.career2course3desc"
+        },
+        {
+          "name": "careerdata.career2course4",
+          "description": "careerdata.career2course4desc"
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "listrole": "careerdata.career3listrole",
+      "name": "careerdata.career3heading",
+      "role": "careerdata.career3role",
+      "description": "careerdata.career3desc",
+      "video": "https://www.youtube.com/embed/0FM8jYcS238",
+      "company": "careerdata.career3company",
+      "image": "/img/user3.png",
+      "skills": [
+        "careerdata.career3skill1",
+        "careerdata.career3skill2",
+        "careerdata.career3skill3",
+        "careerdata.career3skill4",
+        "careerdata.career3skill5",
+        "careerdata.career3skill6"
+      ],
+      "roles": [
+        "careerdata.career3role1",
+        "careerdata.career3role2",
+        "careerdata.career3role3",
+        "careerdata.career3role4",
+        "careerdata.career3role5"
+      ],
+      "courses": [
+        {
+          "name": "careerdata.career3course1",
+          "description": "careerdata.career3course1desc"
+        },
+        {
+          "name": "careerdata.career3course2",
+          "description": "careerdata.career3course2desc"
+        },
+        {
+          "name": "careerdata.career3course3",
+          "description": "careerdata.career3course3desc"
+        },
+        {
+          "name": "careerdata.career3course4",
+          "description": "careerdata.career3course4desc"
+        },
+        {
+          "name": "careerdata.career3course5",
+          "description": "careerdata.career3course5desc"
+        },
+        {
+          "name": "careerdata.career3course6",
+          "description": "careerdata.career3course6desc"
+        },
+        {
+          "name": "careerdata.career3course7",
+          "description": "careerdata.career3course7desc"
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "listrole": "careerdata.career4listrole",
+      "name": "careerdata.career4heading",
+      "role": "careerdata.career4role",
+      "description": "careerdata.career4desc",
+      "video": "https://www.youtube.com/embed/0FM8jYcS238",
+      "company": "careerdata.career4company",
+      "image": "/img/user4.png",
+      "skills": [
+        "careerdata.career4skill1",
+        "careerdata.career4skill2",
+        "careerdata.career4skill3",
+        "careerdata.career4skill4",
+        "careerdata.career4skill5",
+        "careerdata.career4skill6"
+      ],
+      "roles": [
+        "careerdata.career4role1",
+        "careerdata.career4role2",
+        "careerdata.career4role3",
+        "careerdata.career4role4",
+        "careerdata.career4role5"
+      ],
+      "courses": [
+        {
+          "name": "careerdata.career4course1",
+          "description": "careerdata.career4course1desc",
+          "link": "http://wimmalab.pages.labranet.jamk.fi/core/"
+        },
+        {
+          "name": "careerdata.career4course2",
+          "description": "careerdata.career4course2desc"
+        },
+        {
+          "name": "careerdata.career4course3",
+          "description": "careerdata.career4course3desc"
+        },
+        {
+          "name": "careerdata.career4course4",
+          "description": "careerdata.career4course4desc"
+        },
+        {
+          "name": "careerdata.career4course5",
+          "description": "careerdata.career4course5desc"
+        }
+      ],
+      "id": "4"
+    },
+    {
+      "listrole": "careerdata.career5listrole",
+      "name": "careerdata.career5heading",
+      "role": "careerdata.career5role",
+      "description": "careerdata.career5desc",
+      "video": "https://www.youtube.com/embed/0FM8jYcS238",
+      "company": "careerdata.career5company",
+      "image": "/img/user5.png",
+      "skills": [
+        "careerdata.career5skill1",
+        "careerdata.career5skill2",
+        "careerdata.career5skill3",
+        "careerdata.career5skill4",
+        "careerdata.career5skill5",
+        "careerdata.career5skill6"
+      ],
+      "roles": [
+        "careerdata.career5role1",
+        "careerdata.career5role2",
+        "careerdata.career5role3",
+        "careerdata.career5role4",
+        "careerdata.career5role5"
+      ],
+      "courses": [
+        {
+          "name": "careerdata.career5course1",
+          "description": "careerdata.career5course1desc"
+        },
+        {
+          "name": "careerdata.career5course2",
+          "description": "careerdata.career5course2desc"
+        },
+        {
+          "name": "careerdata.career5course3",
+          "description": "careerdata.career5course3desc"
+        },
+        {
+          "name": "careerdata.career5course4",
+          "description": "careerdata.career5course4desc"
+        }
+      ],
+      "id": "5"
+    }
+  ]
+}
